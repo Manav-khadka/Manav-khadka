@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manav Khadka</h1>
-<h3 align="center">A passionate C++, Frontened and backend Programmer</h3>
+<h3 align="center">A passionate C++, Frontened ,backend and AI Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manav-khadka&label=Profile%20views&color=0e75b6&style=flat" alt="manav-khadka" /> </p>
 
