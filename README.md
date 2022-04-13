@@ -44,7 +44,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/manavkhadka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manavkhadka" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manav-khadka&show_icons=true&locale=en&layout=compact" alt="manav-khadka" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manav-khadka&show_icons=true&locale=en&layout=compact" alt="manav-khadka" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manav-khadka&show_icons=true&locale=en" alt="manav-khadka" /></p>
 
