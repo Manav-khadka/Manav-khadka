@@ -1,6 +1,6 @@
 <p style="text-align:center;"><img src="https://scontent.fbho3-2.fna.fbcdn.net/v/t39.30808-6/277806378_1275523402971472_6961322559715121425_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=qzmeqStmHwkAX_6CbfC&_nc_ht=scontent.fbho3-2.fna&oh=00_AT-VjK4cBhPSRPBomRsfWT_wMJEXvKr5SzH7eFDI_v4uzA&oe=624E8119" alt="Logo"></p>
 <h1 align="center">Hi 👋, I'm MANAV KHADKA</h1>
-<h3 align="center">A passionate C++, Frontened ,backend and AI Programmer</h3>
+<h3 align="center">A passionate Full stack Software engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manav-khadka&label=Profile%20views&color=0e75b6&style=flat" alt="manav-khadka" /> </p>
 
