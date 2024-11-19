@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manav-khadka" alt="manav-khadka" /></a> </p>
 
-- 🔭 I’m currently working on **Face recognition**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **C++, AI with IBM, DSA**
 
