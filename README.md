@@ -7,8 +7,8 @@
 <h4 align="left">👩‍💻  About Me</h4>
 
 ###
+<p align="left">🔭 Working as an SDE | 📚 Learning GenAI & Distributed Systems | ⚡ Chess & exploring new concepts in free time.</p>
 
-<p align="left">- 🔭 I’m working SDE.<br>- 📚 I'm currently learning GenAI, Distributed systems<br>- ⚡ In my free time I play chess, read new concepts</p>
 
 ###
 
