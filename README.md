@@ -2,17 +2,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=manav-khadka.manav-khadka&"  />
 </div>
 
-###
 
 <h4 align="left">👩‍💻  About Me</h4>
 
-###
 <p align="left">🔭 Working as an SDE | 📚 Learning GenAI & Distributed Systems | ⚡ Chess & exploring new concepts in free time.</p>
 ###
 
 <h4 align="left">🛠 Language and tools</h4>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
