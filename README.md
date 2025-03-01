@@ -14,9 +14,7 @@ Here’s a more detailed version of your "About Me" section:
 <p align="left">📚 Continuously learning and exploring new technologies, with a keen interest in Generative AI, Distributed Systems, and Cloud Computing. </p>  
 <p align="left">💡 Enthusiastic about problem-solving, system design, and optimizing software performance. </p>  
 <p align="left">⚡ In my free time, I enjoy playing chess, experimenting with new concepts, and staying up-to-date with the latest trends in tech. </p>  
-<p align="left">🌍 Love collaborating with developers worldwide and contributing to open-source projects. </p>  
-
-Would you like to add anything specific about your projects or achievements?
+<p align="left">🌍 Love collaborating with developers worldwide and contributing to open-source projects. </p> 
 <h4 align="left">🛠 Language and tools</h4>
 
 
