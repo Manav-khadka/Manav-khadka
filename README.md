@@ -3,18 +3,21 @@
 </div>
 
 
-Here’s a more detailed version of your "About Me" section:  
+<h1 align="left">Hey 👋 What's up?</h1>
 
----
+###
 
-<h4 align="left">👩‍💻 About Me</h4>  
+<p align="left">My name is Manav Khadka. I like to brainstorm on ideas and make it possible.</p>
 
-<p align="left">Hi👋, I am Manav Khadka </p>  
-<p align="left">🔭 Currently working as an SDE, passionate about building scalable and efficient software solutions. </p>  
-<p align="left">📚 Continuously learning and exploring new technologies, with a keen interest in Generative AI, Distributed Systems, and Cloud Computing. </p>  
-<p align="left">💡 Enthusiastic about problem-solving, system design, and optimizing software performance. </p>  
-<p align="left">⚡ In my free time, I enjoy playing chess, experimenting with new concepts, and staying up-to-date with the latest trends in tech. </p>  
-<p align="left">🌍 Love collaborating with developers worldwide and contributing to open-source projects. </p> 
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🔭 Currently working as an SDE, passionate about building scalable and efficient software solutions.<br><br>📚 Continuously learning and exploring new technologies, with a keen interest in Generative AI, Distributed Systems, and Cloud Computing.<br><br>💡 Enthusiastic about problem-solving, system design, and optimizing software performance.<br><br>⚡ In my free time, I enjoy playing chess, experimenting with new concepts, and staying up-to-date with the latest trends in tech.<br><br>🌍 Love collaborating with developers worldwide and contributing to open-source projects.</p>
+
+###
 <h4 align="left">🛠 Language and tools</h4>
 
 
@@ -56,7 +59,8 @@ Here’s a more detailed version of your "About Me" section:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manav-khadka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  
+  <img src="https://streak-stats.demolab.com?user=manav-khadka&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
 
 ###
