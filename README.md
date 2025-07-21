@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">My name is Manav Khadka. I like to brainstorm on ideas and make it possible</p>
+<p align="left">My name is Manav Khadka. I like to brainstorm on ideas and make it possible.</p>
 
 ###
 
