@@ -54,7 +54,7 @@
 # visit my portfolio: https://manavkhadka.com.np
 ###
 
-<h2 align="left">🔥 My Stats :</h2>
+<h2 align="left">🔥 My Stats :  </h2>
 
 ###
 
