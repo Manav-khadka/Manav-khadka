@@ -18,7 +18,7 @@
 <p align="left">🔭 Currently working as an SDE, passionate about building scalable and efficient software solutions.<br><br>📚 Continuously learning and exploring new technologies, with a keen interest in Generative AI, Distributed Systems, and Cloud Computing.<br><br>💡 Enthusiastic about problem-solving, system design, and optimizing software performance.<br></p>
 
 ###
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Language and tools </h2>
 
 
 <div align="left">
